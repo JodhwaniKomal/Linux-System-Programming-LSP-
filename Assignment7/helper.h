@@ -1,0 +1,1 @@
+int SumOfFactors(int No);
